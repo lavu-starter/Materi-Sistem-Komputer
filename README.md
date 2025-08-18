@@ -38,3 +38,6 @@ Repositori ini dapat digunakan sebagai bahan ajar maupun referensi untuk proyek 
 ---
 
 ✍️ **Dikembangkan untuk pembelajaran SMK - Mata Pelajaran Sistem Komputer AI**
+
+Link Pengumpulan Tugas
+https://padlet.com/coolrozaq/submission-request/o4ZnXBEqE1LgzNda?section=313766519
